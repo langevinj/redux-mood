@@ -11,7 +11,7 @@ const buttons = Array.from(document.querySelectorAll(".button"));
 const moods = {
     "HAPPY": { face: "(＾▽＾)", bg: "yellow" }, 
     "SAD": { face: "●︿●", bg: "blue"},
-    "ANGRY": { face: "(⋋▂⋌)", bg: "scarlet" },
+    "ANGRY": { face: "(⋋▂⋌)", bg: "red" },
     "CONFUSED": { face: "(◑○◑)", bg: "green"}
 }
 
